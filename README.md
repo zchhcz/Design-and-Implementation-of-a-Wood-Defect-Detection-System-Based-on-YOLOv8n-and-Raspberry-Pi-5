@@ -223,10 +223,6 @@ sudo apt install -y python3-picamera2
 
 本项目采用 [MIT License](LICENSE) 开源许可证。
 
-## 👨‍💻 作者
-
-[您的名字] - [您的邮箱或GitHub]
-
 ## 🙏 致谢
 
 - [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics)
