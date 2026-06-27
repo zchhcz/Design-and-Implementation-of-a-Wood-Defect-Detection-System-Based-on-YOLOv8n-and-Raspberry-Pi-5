@@ -1,0 +1,14 @@
+# Core dependencies
+ultralytics>=8.0.0
+opencv-python>=4.5.0
+numpy>=1.21.0
+requests>=2.26.0
+
+# Server side (PC)
+PyQt5>=5.15.0
+Flask>=2.0.0
+flask-cors>=3.0.10
+psutil>=5.8.0
+
+# Raspberry Pi side (optional, only for picamera2)
+# picamera2  # Uncomment if using Raspberry Pi camera
